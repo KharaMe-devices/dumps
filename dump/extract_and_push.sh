@@ -46,7 +46,7 @@ if [[ ! -f ${FILE} ]]; then
 	fi
 fi
 
-PARTITIONS="system vendor cust odm oem factory product modem xrom systemex system_ext system_other oppo_product opproduct reserve india my_preload my_odm my_stock my_operator my_country my_product my_company my_engineering my_heytap"
+PARTITIONS="system vendor cust odm odm_ext oem factory product modem xrom systemex system_ext system_other oppo_product opproduct reserve india my_preload my_odm my_stock my_operator my_country my_product my_company my_engineering my_heytap"
 
 if [[ ! -d "${HOME}/extract-dtb" ]]; then
 	git clone -q https://github.com/PabloCastellano/extract-dtb ~/extract-dtb
