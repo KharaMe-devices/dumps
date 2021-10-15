@@ -1,0 +1,127 @@
+/my_heytap/apkcerts.txt 11
+/my_heytap/app/ARCore_stub/ARCore_stub.apk 14-18
+/my_heytap/app/BookmarkProvider/BookmarkProvider.apk 20-26
+/my_heytap/app/CalendarGoogle/CalendarGoogle.apk 28-5997
+/my_heytap/app/Chrome/Chrome.apk 5999-7347 0 7348-9804 0 9805-11988
+/my_heytap/app/ChromePartnerProvider/ChromePartnerProvider.apk 11990-12209
+/my_heytap/app/EmailPartnerProvider/EmailPartnerProvider.apk 12211-12435
+/my_heytap/app/Gmail2/Gmail2.apk 12437-20326 0 20327-20329 0 20330-20343 0 0 20344-20347 0 0 0 0 0 0 0 0 0 0 0 0 20348 20350-20355 0 20356-20360 0 20361-20380 0 20381-20385 0 0 20386 0 0 0 0 0 20387 0 0 0 20388-20389 0 0 0 0 0 0 20390 0 20391 0 20392 0 0 20393-20395 0 0 0 0 20396-20399 0 0 20400 0 0 0 0 0 0 0 0 0 0 0 0 0 20401-20407 0 20408-20521 0 20522-20677 0 20678-21107 0 21108-26696 0 26697-26946 0 0 0 26947-29299
+/my_heytap/app/GoogleContactsSyncAdapter/GoogleContactsSyncAdapter.apk 29301-29662
+/my_heytap/app/GoogleLocationHistory/GoogleLocationHistory.apk 29664-29675
+/my_heytap/app/GooglePrintRecommendationService/GooglePrintRecommendationService.apk 29677-29707
+/my_heytap/app/GoogleTTS/GoogleTTS.apk 29708-32767 32775-37466 0 37467 0 37468 0 0 0 0 37469 37471-37476 0 37477 0 0 37478-37479 0 0 0 0 37480 0 0 0 37481-37484 0 0 0 0 0 0 0 0 0 37485-37486 0 0 0 0 0 0 0 37487-37489 0 37490-37491 0 37492-37497 0 37498-37505 0 0 37506-37508 0 37509 0 0 37510-37517 0 0 0 37518-37520 0 0 0 37521-37525 0 0 37526 0 0 0 37527-37796 0 0 37797-38579
+/my_heytap/app/Keep/Keep.apk 38581-41369 0 0 0 0 41370-41372 0 0 41373 0 0 41374-42766 0 42767 42769-43691
+/my_heytap/app/LatinImeGoogle/LatinImeGoogle.apk 43693-52580 0 0 52581 0 52582-52595 0 52596 0 52597 0 0 0 52599 0 52600-52601 0 52602-52604 0 52605-52607 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 52608 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 52609-52613 0 52614-52624 0 0 0 0 0 0 52625 0 52626 0 52627 0 52628 0 52629-52631 0 0 52632-52634 0 52635 0 0 0 0 0 0 0 52636 0 0 0 52637 0 52638 0 0 0 0 52639 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 52640 0 52641 0 0 0 0 0 0 0 0 0 0 52642-52643 0 0 0 0 0 0 0 0 0 0 0 52644 0 0 52645-52647 0 0 0 0 0 0 0 52648 0 0 52649 0 0 0 0 0 0 52650 0 0 0 52651 0 52652 0 0 0 0 0 0 0 52653-52655 0 0 52656-52657 0 0 0 52658 0 0 0 52659-52661 0 0 0 0 52662-52663 0 0 52664-52667 0 52668-52671 0 0 0 0 0 52672 0 52673-52674 0 0 0 52675-52676 0 0 0 0 0 0 0 0 0 0 0 0 52677-52691 0 0 52692 0 0 52693 0 0 0 0 0 52694-52698 0 0 52699 0 52700-52703 0 0 0 0 0 52704-52705 0 0 0 0 52706-52758 0 52759-56339 0 0 0 0 0 0 0 0 56340-57874 0 57875-60618
+/my_heytap/app/Maps/Maps.apk 60620-65535 65540-70363 0 70364-70365 0 0 70366-70369 0 0 0 0 0 0 0 70370 0 0 0 70372-70375 0 70376 0 0 0 70377 0 0 0 0 0 0 0 0 70378-70392 0 70393 0 0 70394 0 0 0 0 0 0 0 70395 0 70396 0 0 0 70397 0 0 0 0 0 0 0 0 0 0 0 70398-70400 0 0 0 0 0 0 0 0 0 0 0 70401 0 0 0 0 0 0 70402 0 70403-70409 0 70410-70414 0 0 0 70415-70420 0 0 0 0 0 0 0 0 0 0 0 70421-78161 0 78162-78338 0 78339-81638
+/my_heytap/app/SoundAmplifier/SoundAmplifier.apk 81640-82610 0 82611-82617 0 0 0 82618-83839
+/my_heytap/app/TrichromeLibrary/TrichromeLibrary.apk 83841-98303 98310-99774 0 0 0 0 99775-99797
+/my_heytap/app/WebViewGoogle/WebViewGoogle.apk 99799-99862 0 99863-117069 0 117070-117085 0 117086-117093 0 0 0 0 117094 117096 0 117097 0 117098 0 117099-117160 0 0 117161-117168 0 0 0 0 0 0 0 0 0 117169-117222 0 117223-117238 0 0 117239-117240 0 117241-117244 0 0 117245-117253 0 0 0 0 117254 0 117255-117264 0 117265-117274 0 117275 0 0 117276-117290 0 0 0 0 117291-117292 0 117293-117298 0 117299-117488 0 0 117489 0 117490 0 0 117491-117494 0 0 117495-117496 0 0 0 117497 0 0 117498 0 0 117499-117510 0 0 117511-117512 0 0 117513-117583 0 0 0 0 117584-117627 0 0 0 117628-117646 0 0 117647-117648 0 117649-117652 0 0 117653-117662 0 117663-117664 0 0 117665-117695 0 0 0 117696-117712 0 117713-117773 0 117774-117785 0 0 117786-117814 0 0 117815-117848 0 117849-117919 0 117920-117940 0 0 0 0 117941-117943 0 0 0 0 0 0 0 117944-118016 0 0 0 0 118017-119808
+/my_heytap/app/YouTube/YouTube.apk 119810-124212 0 124213-124225 0 0 124226-126948 0 0 126949-126951 0 126952 126954 0 0 0 0 0 126955 0 0 0 0 0 0 0 126956-126976 0 0 0 0 126977-126978 0 126979-126985 0 0 0 0 0 126986-126988 0 126989 0 0 0 0 0 0 0 0 0 126990-126995 0 126996-127562 0 0 127563-127564 0 0 127565-127572 0 0 127573-128277 0 128278-128970 0 0 0 0 0 0 128971-128974 0 0 128975-128976 0 128977-129039 0 129040-130853 0 0 130854-130875 0 130876-130896 0 0 130897-131071 131076-132807 0 0 0 0 0 0 0 0 0 0 0 0 132808 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 132809-133041 0 0 0 0 133042-136564 0 136565-136802 0 0 0 136803-137957
+/my_heytap/app/talkback/talkback.apk 137959-139007 0 0 0 139008-144577
+/my_heytap/applist/applist.txt 144579
+/my_heytap/build.prop 144580
+/my_heytap/etc/NOTICE.xml.gz 144582-144589
+/my_heytap/etc/default-permissions/default-permissions-google.xml 144591
+/my_heytap/etc/permissions/default_grant_permissions_list.xml 144593
+/my_heytap/etc/permissions/my_heytap_common_features.xml 144594
+/my_heytap/etc/permissions/my_heytap_common_permissions.xml 144595
+/my_heytap/etc/permissions/my_heytap_common_privapp_permissions.xml 144596
+/my_heytap/etc/permissions/my_heytap_pu_features.xml 144597
+/my_heytap/etc/permissions/my_heytap_pu_permissions.xml 144598
+/my_heytap/etc/permissions/my_heytap_pu_privapp_permissions.xml 144599
+/my_heytap/etc/permissions/privapp-permissions-google-comms-suite.xml 144600
+/my_heytap/etc/permissions/privapp-permissions-google-product.xml 144601-144606
+/my_heytap/etc/permissions/privapp-permissions-google-system-ext.xml 144607
+/my_heytap/etc/permissions/privapp-permissions-google-system.xml 144608
+/my_heytap/etc/permissions/privapp-permissions-oplus.xml 144609
+/my_heytap/etc/permissions/split-permissions-google.xml 144610
+/my_heytap/etc/preferred-apps/google.xml 144612-144614
+/my_heytap/etc/security/fsverity/play_store_fsi_cert.der 144617
+/my_heytap/etc/sysconfig/google-hiddenapi-package-allowlist.xml 144619-144620
+/my_heytap/etc/sysconfig/google.xml 144621-144622
+/my_heytap/etc/sysconfig/my_heytap_common_sysconfig.xml 144623
+/my_heytap/etc/sysconfig/my_heytap_pu_sysconfig.xml 144624
+/my_heytap/etc/sysconfig/wellbeing.xml 144625
+/my_heytap/etc/usr/srec/en-US/APP_NAME.fst 144629
+/my_heytap/etc/usr/srec/en-US/APP_NAME.syms 144630
+/my_heytap/etc/usr/srec/en-US/CLG.prewalk.fst 144631-145520
+/my_heytap/etc/usr/srec/en-US/CONTACT_NAME.fst 145521
+/my_heytap/etc/usr/srec/en-US/CONTACT_NAME.syms 145522
+/my_heytap/etc/usr/srec/en-US/SONG_NAME.fst 145523
+/my_heytap/etc/usr/srec/en-US/SONG_NAME.syms 145524
+/my_heytap/etc/usr/srec/en-US/am_phonemes.syms 145525
+/my_heytap/etc/usr/srec/en-US/app_bias.fst 145526
+/my_heytap/etc/usr/srec/en-US/c_fst 145527-145627
+/my_heytap/etc/usr/srec/en-US/commands.abnf 145628
+/my_heytap/etc/usr/srec/en-US/compile_grammar.config 145629
+/my_heytap/etc/usr/srec/en-US/config.pumpkin 145630-145742
+/my_heytap/etc/usr/srec/en-US/confirmation_bias.fst 145743-145746
+/my_heytap/etc/usr/srec/en-US/contacts.abnf 145747
+/my_heytap/etc/usr/srec/en-US/contacts_bias.fst 145748
+/my_heytap/etc/usr/srec/en-US/contacts_disambig.fst 145749
+/my_heytap/etc/usr/srec/en-US/dict 145750
+/my_heytap/etc/usr/srec/en-US/dictation.config 145751-145753
+/my_heytap/etc/usr/srec/en-US/dnn 145754-146649
+/my_heytap/etc/usr/srec/en-US/embedded_class_denorm.mfar 146650-146707
+/my_heytap/etc/usr/srec/en-US/embedded_normalizer.mfar 146708-146814
+/my_heytap/etc/usr/srec/en-US/endpointer_dictation.config 146815
+/my_heytap/etc/usr/srec/en-US/endpointer_model 146816-146820
+/my_heytap/etc/usr/srec/en-US/endpointer_model.mmap 146821-146825
+/my_heytap/etc/usr/srec/en-US/endpointer_voicesearch.config 146826
+/my_heytap/etc/usr/srec/en-US/ep_portable_mean_stddev 146827
+/my_heytap/etc/usr/srec/en-US/ep_portable_model.uint8.mmap 146828-146859
+/my_heytap/etc/usr/srec/en-US/g2p.data 146860-147108
+/my_heytap/etc/usr/srec/en-US/g2p_fst 147109-147921
+/my_heytap/etc/usr/srec/en-US/g2p_graphemes.syms 147922
+/my_heytap/etc/usr/srec/en-US/g2p_phonemes.syms 147923
+/my_heytap/etc/usr/srec/en-US/grammar.config 147924
+/my_heytap/etc/usr/srec/en-US/hmm_symbols 147925-147969
+/my_heytap/etc/usr/srec/en-US/hmmlist 147970-147997
+/my_heytap/etc/usr/srec/en-US/input_mean_std_dev 147998
+/my_heytap/etc/usr/srec/en-US/lexicon.U.fst 147999-148324
+/my_heytap/etc/usr/srec/en-US/lstm_model.uint8.data 148325-149498
+/my_heytap/etc/usr/srec/en-US/magic_mic.config 149499
+/my_heytap/etc/usr/srec/en-US/media_bias.fst 149500
+/my_heytap/etc/usr/srec/en-US/metadata 149501
+/my_heytap/etc/usr/srec/en-US/monastery_config.pumpkin 149502
+/my_heytap/etc/usr/srec/en-US/norm_fst 149503
+/my_heytap/etc/usr/srec/en-US/offensive_word_normalizer.mfar 149504-149637
+/my_heytap/etc/usr/srec/en-US/offline_action_data.pb 149638-149639
+/my_heytap/etc/usr/srec/en-US/phonelist 149640
+/my_heytap/etc/usr/srec/en-US/portable_lstm 149641-149763
+/my_heytap/etc/usr/srec/en-US/portable_meanstddev 149764
+/my_heytap/etc/usr/srec/en-US/pumpkin.mmap 149765-152944
+/my_heytap/etc/usr/srec/en-US/read_items_bias.fst 152945
+/my_heytap/etc/usr/srec/en-US/rescoring.fst.compact 152946-154063
+/my_heytap/etc/usr/srec/en-US/semantics.pumpkin 154064-154158
+/my_heytap/etc/usr/srec/en-US/skip_items_bias.fst 154159
+/my_heytap/etc/usr/srec/en-US/time_bias.fst 154160
+/my_heytap/etc/usr/srec/en-US/transform.mfar 154161-154189
+/my_heytap/etc/usr/srec/en-US/voice_actions.config 154190-154192
+/my_heytap/etc/usr/srec/en-US/voice_actions_compiler.config 154193-154194
+/my_heytap/etc/usr/srec/en-US/word_confidence_classifier 154195
+/my_heytap/etc/usr/srec/en-US/wordlist.syms 154196-154410
+/my_heytap/lib/libwebviewchromium_loader.so 154412-154413
+/my_heytap/lib/libwebviewchromium_plat_support.so 154414-154416
+/my_heytap/lib64/libwebviewchromium_loader.so 154418-154420
+/my_heytap/lib64/libwebviewchromium_plat_support.so 154421-154425
+/my_heytap/overlay/GmsConfigOverlayCommon/GmsConfigOverlayCommon.apk 154428-154433
+/my_heytap/overlay/GmsConfigOverlayComms/GmsConfigOverlayComms.apk 154435-154437
+/my_heytap/overlay/GmsConfigOverlayGSA/GmsConfigOverlayGSA.apk 154439-154441
+/my_heytap/overlay/GmsOverlay/GmsOverlay.apk 154443-154445
+/my_heytap/priv-app/AndroidAutoStub/AndroidAutoStub.apk 154446-154993
+/my_heytap/priv-app/ConfigUpdater/ConfigUpdater.apk 154994-156422
+/my_heytap/priv-app/GlobalSearch/GlobalSearch.apk 156423-158387
+/my_heytap/priv-app/GmsCore/GmsCore.apk 158388-160134 0 0 160135-160140 0 160141-162373 0 0 0 0 0 0 0 0 0 162374-163839 163851 163853-175811 0 0 175812-175816 0 0 0 175817-176907 0 176908 0 0 0 0 176909-176912 0 176913-178387 0 178388-178421 0 178422-178804 0 178805-180820 0 180821-181112 0 0 0 181113-183875
+/my_heytap/priv-app/GmsCore/m/independent/AndroidPlatformServices.apk 183878-187349
+/my_heytap/priv-app/GoogleFeedback/GoogleFeedback.apk 187351-187515
+/my_heytap/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk 187517-187558
+/my_heytap/priv-app/GooglePartnerSetup/GooglePartnerSetup.apk 187560-187696
+/my_heytap/priv-app/GoogleRestore/GoogleRestore.apk 187698-189085
+/my_heytap/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk 189087-190666
+/my_heytap/priv-app/OobConfig/OobConfig.apk 190668-192068
+/my_heytap/priv-app/Phonesky/Phonesky.apk 192070-195257 0 195258-196372 0 196373-196394 0 0 196395-196607 196612 196614-200084 0 200085-200384 0 0 0 200385-201871
+/my_heytap/priv-app/SetupWizard/SetupWizard.apk 201873-202937 0 202938-203484
+/my_heytap/priv-app/TagGoogle/TagGoogle.apk 203486-203655
+/my_heytap/priv-app/Velvet/Velvet.apk 203657-213210 0 213211-214482 0 214483 0 214484-214487 0 0 214488 0 0 214490-214816 0 0 0 0 0 0 0 0 214817-214819 0 214820-215913 0 0 0 215914-215916 0 215917-215922 0 0 215923 0 215924-215926 0 0 215927 0 0 215928-217045 0 217046-217067 0 0 217068-217540 0 0 0 217541-217542 0 217543-217546 0 0 217547-217932 0 217933-217934 0 0 0 217935-217938 0 217939-222852 0 222853 0 222854-222858 0 0 222859-222860 0 0 0 0 0 0 0 0 0 0 0 0 222861 0 0 222862 0 0 0 0 0 0 0 0 0 0 0 222863-222864 0 0 0 0 0 0 0 0 0 0 0 0 0 0 222865 0 222866 0 0 0 222867 0 222868-222870 0 222871 0 222872 0 0 0 0 0 0 0 222873 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 222874 0 0 222875 0 0 0 222876 0 0 222877 0 0 222878-222879 0 222880 0 0 0 0 0 222881-222882 0 222883-222885 0 0 0 0 0 0 0 0 222886-222889 0 222890-222893 0 222894 0 222895-222896 0 0 222897-222898 0 222899-222900 0 222901-222904 0 0 222905-222907 0 0 0 222908-222912 0 0 0 222913 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 222914-222931 0 222932-224644 0 0 0 224645 0 224646-224647 0 224648-224651 0 224652-224657 0 0 224658-224660 0 0 0 0 224661-224663 0 0 224664-224665 0 0 0 0 224666-225965 0 225966-225967 0 225968-225976 0 225977-225988 0 225989-226001 0 226002-226006 0 0 0 0 226007-226520 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 226521-226523 0 0 226524-228447 0 0 228448-229273 0 0 0 229274-229375 229382-239563 0 239564-240285 0 0 0 0 0 0 0 240286-245384
+/my_heytap/priv-app/Wellbeing/Wellbeing.apk 245386-247962
