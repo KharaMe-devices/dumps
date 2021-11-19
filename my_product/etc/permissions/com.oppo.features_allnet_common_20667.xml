@@ -1,0 +1,28 @@
+<permissions>
+    <feature name="oppo.feature.20667" />
+    <!-- luozeng@PSW.MM.Display.SF.Feature, 2019/05/03, Add for roundcorner -->
+    <feature name="oppo.roundcorner.support" />
+    <feature name="com.oppo.feature.screen.heteromorphism" />
+    <!-- Zeqi.Shen@AD.Fingerprint.1127478, 2017/10/29, add for fingerpirnt feature -->
+    <feature name="android.hardware.fingerprint" />
+    <!-- Qiang.Du@ANDROID.BIOMTRICS, 2020/08/11, Add for face feature -->
+    <feature name="android.hardware.biometrics.face" />
+    <!-- Yuan.Huang@PSW.CN.WiFi.Network.internet.1197891, 2018/08/24, Add for SLA feature -->
+    <feature name="oppo.wlan.sla.support" />
+    <!-- Ping.Zhang@PSW.BSP.TP, 2019/04/24, Add for blackgesture -->
+    <feature name="oppo.lcd.first.tp.last.support"/>
+    <!-- Yuan.Huang@PSW.CN.WiFi.Network.internet.1197891, 2018/08/24, Add for SLA feature -->
+    <feature name="oppo.wlan.sla.support" />
+    <!-- Yalong.Wang@Apps.SpeechAssist 2019/04/03, feature used for disable incoming call voice control -->
+    <feature name="oppo.incomingcall.voicecontrol.shield" />
+    <!-- Wenkan.Zhu@PSW.CN.WiFi.Network.internet.1800709, 2019/01/24, Add for private feature -->
+    <feature name="oppo.wlan.privateDns.support" />
+    <!-- Changwei.Li@ROM.SDK, 2017/10/12, add support display compat-->
+    <feature name="oppo.display.compat.support" />
+    <!-- Fujiang.Wang@PSW.AD.Thermal, 2020/04/15, Add for control high temp -->
+    <feature name="oppo.power.thermal.control" />
+    <!-- #ifdef OPLUS_FEATURE_CUSTOMIZE -->
+    <!-- Yugang.Bao@ANDROID.CUSTOMIZE.0000, 2020/08/20, Add for Enable Zero Touch Provisioning support -->
+    <feature name="com.google.android.feature.ZERO_TOUCH" />
+    <!-- #endif /* OPLUS_FEATURE_CUSTOMIZE */-->
+</permissions>

@@ -1,0 +1,12 @@
+<oplus-config>
+    <!-- ZhaoKai@NETWORK.DATA.1256389, 2018/1/26 -->
+    <oplus-feature name="oplus.software.radio.data_hongbao"/>
+    <!-- ShiQianhua@NETWORK.DATA.8615, 2020/06/22, modify for Feature Toggle -->
+    <oplus-feature name="oplus.software.radio.data_fast_recovery"/>
+	<!-- PengHao@NETWORK.DATA.8124, 2020/05/08, Add for network quality evaluation.OPLUS_FEATURE_DATA_EVAL -->
+    <oplus-feature name="oplus.software.radio.data_eval" />
+    <!-- Asiga@NETWORK.POWER.26376, 2020/04/27, modify for Feature Toggle -->
+    <oplus-feature name="oplus.software.radio.nwpower_static_netcontroller_enabled" />
+    <!-- PengHao@NETWORK.DATA.110873, 2020/06/28, Add for oppo background data limit, OPLUS_FEATURE_DATA_LIMIT. -->
+    <oplus-feature name="oplus.software.radio.data_limit" />
+</oplus-config>

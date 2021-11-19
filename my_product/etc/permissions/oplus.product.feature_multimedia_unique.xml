@@ -1,0 +1,10 @@
+<oplus-config>
+    <!-- zhenyu.dong@MM.AUDIOSERVER, 2020/08/07, Add for rm feature start -->
+    <oplus-feature name="oplus.software.audio.dualheadphone"/>
+    <oplus-feature name="oplus.software.audio.dualheadphone.lite"/>
+    <!-- end -->
+    <!-- ZhangMeilong@MULTIMEDIA.AUDIOSERVER.EFFECT, 2021/05/17 add for enable dirac bt effect feature start-->
+    <oplus-feature name="oplus.software.audio.dirac.a2dp.support"/>
+    <!-- ZhangMeilong@MULTIMEDIA.AUDIOSERVER.EFFECT, 2021/05/17 add for enable dirac bt effect feature end-->
+
+</oplus-config>

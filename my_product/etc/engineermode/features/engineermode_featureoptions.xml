@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<features>
+    <!-- BSP feature -->
+    <feature name="com.oppo.eng.otg.support" />
+    <feature name="com.oppo.eng.sdcard.support" />
+    <feature name="com.oppo.eng.smallboard.detect.support" />
+    <feature name="com.oppo.eng.a.smallboard.detect.support" />
+    <feature name="com.oppo.eng.adsp.sensor.mode.support" />
+    <feature name="com.oppo.eng.gyroscope.sensor.support" />
+    <feature name="com.oppo.eng.magnetic.sensor.support" />
+    <feature name="com.oppo.eng.gravity.sensor.calibrate.support" />
+    <feature name="com.oppo.eng.proximity.sensor.calibrate.support" />
+    <feature name="com.oppo.eng.light.sensor.calibrate.support" />
+    <feature name="com.oppo.eng.sensor.selftest.support" />
+    <feature name="com.oppo.eng.sensor.calibrate.through.hidl.support" />
+    <feature name="com.oppo.eng.stepcounter.sensor.support" />
+    <feature name="com.oppo.eng.ship.mode.support" />
+    <feature name="com.oppo.eng.log.sensor.support" />
+    <feature name="com.oppo.eng.proximity.distance.calibration.support" />
+    <feature name="com.oppo.eng.type.c.support" />
+
+    <!-- Network feature -->
+    <feature name="com.oppo.eng.gemini.support" />
+    <feature name="com.oppo.eng.sim.hot.swap.support" />
+    <!-- Multimedia feature -->
+    <feature name="com.oppo.eng.display.size.change.support" />
+    <feature name="com.oppo.eng.dispaly.size.change" value="720x1520" />
+
+    <!-- Connectivity feature -->
+
+    <!-- Camera feature -->
+    <feature name="com.oppo.eng.flash.light.calibrate.support"/>
+    <feature name="com.oppo.eng.flash.light.auto.calibrate.support"/>
+    <feature name="com.oppo.eng.flash.light.support"/>
+    <feature name="com.oppo.eng.second.back.camera.support"/>
+    <feature name="com.oppo.eng.third.rear.camera.support"/>
+    <feature name="com.oppo.eng.fourth.rear.camera.support"/>
+    <feature name="com.oppo.eng.camera.dual.calibrate.support"/>
+    <feature name="com.oppo.eng.camera.dual.verificate.support"/>
+    <feature name="com.oppo.eng.camera.dual.calibrate.aftersale.support"/>
+    <feature name="com.oppo.eng.camera.dual.calibration.input.yuv.support"/>
+    <feature name="com.oppo.eng.camera.dual.calibration.buffer.lost.support"/>
+    <feature name="com.oppo.eng.camera.rear.single.flash.light.support" />
+    <feature name="com.oppo.eng.camera.interference.video.support"/>
+
+    <!-- Android feature -->
+    <!-- for Aging V1.2 -->
+    <feature name="com.oppo.eng.production.line.aging.support" />
+    <!-- for Aging V1.3 -->
+    <feature name="com.oppo.eng.production.line.aging.new.support" />
+    <feature name="com.oppo.eng.navigation.bar.support" />
+    <feature name="com.oppo.eng.standlone.userdata.support" />
+    <feature name="com.oppo.eng.qcom.platform" />
+    <feature name="com.oppo.eng.cn.platform" />
+
+    <!-- Camera parameters -->
+    <feature name="com.oppo.eng.camera.calibration.rear.size" value="4000x3000"/>
+    <feature name="com.oppo.eng.camera.calibrate.second.rear.size" value="2304x1728"/>
+    <feature name="com.oppo.eng.camera.portrait.size" value="4000x3000"/>
+    <feature name="com.oppo.eng.camera.aftersale.chart.size.array" value="175,295,545,665"/>
+</features>

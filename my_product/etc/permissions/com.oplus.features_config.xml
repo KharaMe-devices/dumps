@@ -1,0 +1,13 @@
+<oplus-config>
+  <!-- ifdef OPLUS_FEATURE_BIOMETRICS -->
+  <!-- Haoran.Xu@ANDROID.BIOMTRICS, 2020/08/20, Add for biometrics feature -->
+  <oplus-feature name="oplus.software.face_closeeye_detect"/>
+  <oplus-feature name="oplus.software.face_nopowerblock"/>
+  <!-- endif OPLUS_FEATURE_BIOMETRICS -->
+  <!-- LuoBinqiang@ANDROID.AMS, 2020/07/14, add for some process keep alive -->
+  <oplus-feature name="oplus.software.keep_alive" />
+  <!-- LuoBinqiang@ANDROID.AMS, 2020/07/14, add end -->
+  <!-- Tonghu.Deng@ANDROID.UIFramework, 2020/6/23, Add for light os window animation -->
+  <oplus-feature name="oplus.software.windowanimaiton.light" />
+  <!-- Tonghu.Deng@ANDROID.UIFramework, 2020/6/23, add end -->
+</oplus-config>

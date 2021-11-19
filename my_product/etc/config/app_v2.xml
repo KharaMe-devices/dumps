@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<app version="1.0">
+    <disable pkg="com.qualcomm.qti.simcontacts" priority="7"/>
+    <disable pkg="com.oppo.transmanager" priority="7"/>
+    <disable pkg="com.oppo.multimedia.pixelworks" priority="7"/>
+    <disable pkg="com.coloros.aicall" priority="7"/>
+    <disable pkg="com.ses.entitlement.o2" priority="7"/>
+</app>

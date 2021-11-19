@@ -1,0 +1,7 @@
+<extend_features>
+    <app_feature name="com.oppo.launcher.light_animator"/>
+    <app_feature name="com.android.systemui.gauss_blur_disabled"/>
+    <app_feature name="athena.silence.reboot.support" />
+
+    <app_feature name="com.android.systemui.support_more_swipup_gestures" />
+</extend_features>

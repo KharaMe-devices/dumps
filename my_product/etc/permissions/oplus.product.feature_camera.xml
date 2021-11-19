@@ -1,0 +1,4 @@
+<oplus-config>
+    <!-- FEATURE_FINGERPRINT_SUPPORT -->
+    <oplus-feature name="oplus.software.fingerprint.shutter"/>
+</oplus-config>

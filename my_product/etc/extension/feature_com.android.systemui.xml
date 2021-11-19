@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extend_features>
+    <!--Zhongxing.Ni@ANDROID.SYTEMUI.NavigationBar, 2020/11/28, Add for support Q Upgrade R to retain the gesture up multiple layout -->
+    <app_feature name="com.android.systemui.support_more_swipup_gestures"/>
+
+    <!--Yang.Li@ANDROID.PERFORMANCE, 2021/02/05, Add for notification panel gauss blur disable -->
+    <app_feature name="com.android.systemui.gauss_blur_disabled"/>
+</extend_features>
